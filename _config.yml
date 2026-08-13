@@ -1,6 +1,6 @@
 title: Rate My Anime
 description: Anime tracker, ratings, reviews, social feed, and airing schedule — all in one.
-url: "" # set to your custom domain when configured, e.g. "https://ratemyanime.com"
+url: "https://bhuwanteamenoch.github.io"
 
 # Use Jekyll's default minima theme — included on GitHub Pages, no setup needed.
 theme: minima
